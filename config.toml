@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "docdock"
+contentDir = "content"
+layoutDir = "layouts"
+
+[[menu.shortcuts]]
+name = "EXTRA"
+identifier = "ex"
+url = "https://www.google.com"
+weight = 1
